@@ -1,4 +1,4 @@
-# NEW_PROJECT_NAME_GOES_HERE
+# Montag3
 
 Template for new projects
 
@@ -10,7 +10,7 @@ cd ~
 
 ---
 
-REPO_NAME=XXX
+REPO_NAME=Montag3
 
 hub delete -y tomnoland/$REPO_NAME
 
